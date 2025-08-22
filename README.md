@@ -1,4 +1,4 @@
-# innovate-talwind
+# innovate-talwind 2 section
 
 live preview
-https://nazneenakterdeveloper.github.io/innovate-talwind/
+https://nazneendev.github.io/innovate-talwind/
